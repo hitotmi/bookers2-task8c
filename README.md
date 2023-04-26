@@ -1,24 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 応用課題8ｃ
+# 実装する機能
+グループ詳細画面に「Join this group」ボタンを表示
+グループ一覧画面にメンバーの人数とグループ詳細画面のリストに参加したユーザとして表示
+参加中のグループの場合は「Leave this group」でグループから抜けられる
